@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JavaApplication18/src"/>
+	<classpathentry kind="src" path="Lists/src"/>
+	<classpathentry kind="src" path="Recursividad/src"/>
+	<classpathentry kind="lib" path="Recursividad/dist/Recursividad.jar"/>
+	<classpathentry kind="output" path="Lists/bin"/>
+</classpath>
